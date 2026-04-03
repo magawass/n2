@@ -1,2 +1,3 @@
-STUDENT'S NAME,Exam Number,Date of Birth,Agriculture,Bible Knowledge,Biology,Chemistry,Chichewa,English,Geography,History,Mathematics,Physics,Social/Life
-CHIKUMBUTSO LUBAINI,001,2005-05-30,-,-,-,-,-,-,-,-,-,-,-
+STUDENT'S NAME,Sex,Exam Number,Date of Birth,Agriculture,Bible Knowledge,Biology,Chemistry,Chichewa,English,Geography,History,Mathematics,Physics,Social/Life
+CHIKUMBUTSO LUBAINI,,001,2005-05-30,;-,-,-,-,-,-,-,-,-,-,-
+enita chembe,F,002,2005-10-01,-,-,-,-,-,-,-,-,-,-,-

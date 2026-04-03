@@ -1,0 +1,98 @@
+{
+  "term": "3",
+  "year": "",
+  "generalComment": "Excellent effort. Keep up the hard work.",
+  "nextTermOpens": "",
+  "fees": "",
+  "gradeKeyLower": {
+    "A": 80,
+    "B": 60,
+    "C": 50,
+    "D": 40,
+    "F": 0
+  },
+  "gradeKeyUpper": {
+    "1": 85,
+    "2": 75,
+    "3": 70,
+    "4": 65,
+    "5": 60,
+    "6": 50,
+    "7": 45,
+    "8": 40,
+    "9": 0
+  },
+  "gradeCommentsLower": {
+    "A": "Excellent pass",
+    "B": "Very good pass",
+    "C": "Good pass",
+    "D": "Bare pass",
+    "F": "Fail"
+  },
+  "gradeCommentsUpper": {
+    "1": "Distinction",
+    "2": "Distinction",
+    "3": "Strong Credit",
+    "4": "Strong Credit",
+    "5": "Weak Credit",
+    "6": "Weak Credit",
+    "7": "Bare Pass",
+    "8": "Bare Pass",
+    "9": "Fail"
+  },
+  "teachers": {
+    "form1": {
+      "Agriculture": "-",
+      "Bible Knowledge": "-",
+      "Biology": "-",
+      "Chemistry": "-",
+      "Chichewa": "-",
+      "English": "-",
+      "Geography": "-",
+      "History": "-",
+      "Mathematics": "-",
+      "Physics": "-",
+      "Social/Life": "-"
+    },
+    "form2": {
+      "Agriculture": "-",
+      "Bible Knowledge": "-",
+      "Biology": "-",
+      "Chemistry": "-",
+      "Chichewa": "-",
+      "English": "-",
+      "Geography": "-",
+      "History": "-",
+      "Mathematics": "-",
+      "Physics": "-",
+      "Social/Life": "-"
+    },
+    "form3": {
+      "Agriculture": "-",
+      "Bible Knowledge": "-",
+      "Biology": "-",
+      "Chemistry": "-",
+      "Chichewa": "-",
+      "English": "-",
+      "Geography": "-",
+      "History": "-",
+      "Mathematics": "-",
+      "Physics": "-",
+      "Social/Life": "-"
+    },
+    "form4": {
+      "Agriculture": "-",
+      "Bible Knowledge": "-",
+      "Biology": "-",
+      "Chemistry": "-",
+      "Chichewa": "-",
+      "English": "-",
+      "Geography": "-",
+      "History": "-",
+      "Mathematics": "-",
+      "Physics": "-",
+      "Social/Life": "-"
+    }
+  },
+  "passwordEnabled": true
+}

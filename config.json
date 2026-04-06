@@ -1,9 +1,9 @@
 {
   "term": "2",
-  "year": "",
+  "year": "2026",
   "generalComment": "Excellent effort. Keep up the hard work.",
-  "nextTermOpens": "",
-  "fees": "",
+  "nextTermOpens": "5th January,2026",
+  "fees": "K200,000.00",
   "gradeKeyLower": {
     "A": 80,
     "B": 60,
@@ -22,24 +22,6 @@
     "8": 40,
     "9": 0
   },
-  "gradeCommentsLower": {
-    "A": "Excellent pass",
-    "B": "Very good pass",
-    "C": "Good pass",
-    "D": "Bare pass",
-    "F": "Fail"
-  },
-  "gradeCommentsUpper": {
-    "1": "Distinction",
-    "2": "Distinction",
-    "3": "Strong Credit",
-    "4": "Strong Credit",
-    "5": "Weak Credit",
-    "6": "Weak Credit",
-    "7": "Bare Pass",
-    "8": "Bare Pass",
-    "9": "Fail"
-  },
   "teachers": {
     "form1": {
       "Agriculture": "mtongsa",
@@ -57,7 +39,7 @@
     "form2": {
       "Agriculture": "luba",
       "Bible Knowledge": "-",
-      "Biology": "-",
+      "Biology": "Banda R",
       "Chemistry": "-",
       "Chichewa": "-",
       "English": "-",

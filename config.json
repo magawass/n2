@@ -1,4 +1,5 @@
 {
+  "locks": {},
   "term": "2",
   "year": "2026",
   "generalComment": "Excellent effort. Keep up the hard work.",
@@ -79,5 +80,13 @@
       "Social/Life": "-"
     }
   },
-  "passwordEnabled": true
+  "passwordEnabled": true,
+  "extraSubjects": {
+    "form1": {},
+    "form2": {
+      "Computer Studies": "Com"
+    },
+    "form3": {},
+    "form4": {}
+  }
 }

@@ -34,7 +34,8 @@
       "History": "-",
       "Mathematics": "-",
       "Physics": "-",
-      "Social/Life": "-"
+      "Social/Life": "-",
+      "Home Economics": "-"
     },
     "form2": {
       "Agriculture": "luba",
@@ -47,7 +48,8 @@
       "History": "-",
       "Mathematics": "-",
       "Physics": "-",
-      "Social/Life": "-"
+      "Social/Life": "-",
+      "Home Economics": "-"
     },
     "form3": {
       "Agriculture": "-",
@@ -60,7 +62,8 @@
       "History": "-",
       "Mathematics": "-",
       "Physics": "-",
-      "Social/Life": "-"
+      "Social/Life": "-",
+      "Home Economics": "-"
     },
     "form4": {
       "Agriculture": "-",
@@ -73,7 +76,8 @@
       "History": "-",
       "Mathematics": "-",
       "Physics": "-",
-      "Social/Life": "-"
+      "Social/Life": "-",
+      "Home Economics": "-"
     }
   },
   "passwordEnabled": true

@@ -1,5 +1,4 @@
 {
-  "locks": {},
   "term": "2",
   "year": "2026",
   "generalComment": "Excellent effort. Keep up the hard work.",
@@ -30,9 +29,12 @@
       "Biology": "-",
       "Chemistry": "-",
       "Chichewa": "-",
+      "Computer Studies": "-",
       "English": "-",
+      "French": "-",
       "Geography": "-",
       "History": "-",
+      "Home Economics": "-",
       "Mathematics": "-",
       "Physics": "-",
       "Social/Life": "-"
@@ -43,15 +45,15 @@
       "Biology": "Banda R",
       "Chemistry": "-",
       "Chichewa": "-",
+      "Computer Studies": "-",
       "English": "-",
+      "French": "-",
       "Geography": "-",
       "History": "-",
+      "Home Economics": "-",
       "Mathematics": "-",
       "Physics": "-",
-      "Social/Life": "-",
-      "Computer Studies": "-",
-      "French": "-",
-      "Home Economics": "-"
+      "Social/Life": "-"
     },
     "form3": {
       "Agriculture": "-",
@@ -59,9 +61,12 @@
       "Biology": "-",
       "Chemistry": "-",
       "Chichewa": "-",
+      "Computer Studies": "-",
       "English": "-",
+      "French": "-",
       "Geography": "-",
       "History": "-",
+      "Home Economics": "-",
       "Mathematics": "-",
       "Physics": "-",
       "Social/Life": "-"
@@ -72,22 +77,82 @@
       "Biology": "-",
       "Chemistry": "-",
       "Chichewa": "-",
+      "Computer Studies": "-",
       "English": "-",
+      "French": "-",
       "Geography": "-",
       "History": "-",
+      "Home Economics": "-",
       "Mathematics": "-",
       "Physics": "-",
       "Social/Life": "-"
     }
   },
-  "passwordEnabled": true,
-  "extraSubjects": {
-    "form1": {},
-    "form2": {
-      "Computer Studies": "Com",
-      "French": "French"
+  "hiddenSubjects": {
+    "form1": {
+      "Agriculture": false,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "Computer Studies": false,
+      "English": false,
+      "French": false,
+      "Geography": false,
+      "History": false,
+      "Home Economics": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
     },
-    "form3": {},
-    "form4": {}
-  }
+    "form2": {
+      "Agriculture": true,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "Computer Studies": false,
+      "English": false,
+      "French": false,
+      "Geography": false,
+      "History": false,
+      "Home Economics": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
+    },
+    "form3": {
+      "Agriculture": false,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "Computer Studies": false,
+      "English": false,
+      "French": false,
+      "Geography": false,
+      "History": false,
+      "Home Economics": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
+    },
+    "form4": {
+      "Agriculture": false,
+      "Bible Knowledge": false,
+      "Biology": false,
+      "Chemistry": false,
+      "Chichewa": false,
+      "Computer Studies": false,
+      "English": false,
+      "French": false,
+      "Geography": false,
+      "History": false,
+      "Home Economics": false,
+      "Mathematics": false,
+      "Physics": false,
+      "Social/Life": false
+    }
+  },
+  "passwordEnabled": true
 }

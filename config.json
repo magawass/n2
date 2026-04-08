@@ -106,7 +106,7 @@
       "Social/Life": false
     },
     "form2": {
-      "Agriculture": true,
+      "Agriculture": false,
       "Bible Knowledge": false,
       "Biology": false,
       "Chemistry": false,

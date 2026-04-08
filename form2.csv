@@ -1,2 +1,2 @@
-STUDENT'S NAME,Exam Number,Sex,SNE,Agriculture,Bible Knowledge,Biology,Chemistry,Chichewa,Computer Studies,English,Geography,History,Mathematics,Physics,SEX,Social/Life
-Jim,J047/001,M,s,90,70,100,-,98,60,-,-,87,-,-,,90
+STUDENT'S NAME,Exam Number,Sex,Date of Birth,Agriculture,Bible Knowledge,Biology,Chemistry,Chichewa,English,Geography,History,Mathematics,Physics,Social/Life,Computer Studies,SNE
+Jim,J047/001,M,,90,70,100,-,98,-,-,87,-,-,90,60,s
